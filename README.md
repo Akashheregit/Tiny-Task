@@ -37,7 +37,7 @@ And I also tailwind css to make it responsive
 ## React-Icon
 In this project I used react icon library by installing ```npm install react-icons --save```.
 
-## Deploy Link - [TinyAssignment]("https://splendorous-madeleine-44e8be.netlify.app")
-# https://splendorous-madeleine-44e8be.netlify.app/
+## Deploy Link - [TinyAssignment]("https://655788e24950403ec02bffc1--verdant-caramel-4bd68a.netlify.app/")
+#https://655788e24950403ec02bffc1--verdant-caramel-4bd68a.netlify.app/
 
 
